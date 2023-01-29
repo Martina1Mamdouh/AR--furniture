@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187561102153",
+    "firebase_url": "https://customers-1d2e7-default-rtdb.firebaseio.com",
+    "project_id": "customers-1d2e7",
+    "storage_bucket": "customers-1d2e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187561102153:android:3f898edf476a2b2654e898",
+        "android_client_info": {
+          "package_name": "com.vr.bachelor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187561102153-lec4f4kd0ofsb9n5jq1fjp19rf8l493e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATUI-neXixdTr-LPmGWi9GW_r57NJW_Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187561102153-lec4f4kd0ofsb9n5jq1fjp19rf8l493e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
